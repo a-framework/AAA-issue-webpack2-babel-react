@@ -1,0 +1,12 @@
+{
+    "name": "decorators",
+    "version": "0.0.1",
+    "description": "",
+    "main": "lib/index",
+    "jsnext:main": "lib/index",
+    "scripts": {},
+    "dependencies": {
+        "react": "^0.14.7"
+    },
+    "devDependencies": {}
+}
